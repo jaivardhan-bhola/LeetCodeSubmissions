@@ -4,11 +4,10 @@ public:
         ios::sync_with_stdio(0);
         cin.tie(0);
         cout.tie(0);
-        set<int> s;
-        for (int i = 0; i < nums.size(); i++)
-            s.insert(nums[i]);
-        if (s.size() == nums.size())
-            return false;
-        return true;
+        sort(nums.begin(), nums.end());
+        for (int i = 0; i < nums.size()-1; i++){
+            if (nums[i] == nums[i+1]) return true;
+        }
+        return false;
     }
 };
