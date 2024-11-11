@@ -4,7 +4,7 @@ public:
         if (nums.size()==0) return 0;
         int ans=1, c=1;
         sort(nums.begin(),nums.end());
-        set <int> num (nums.begin(),nums.end());
+        unordered_set <int> num (nums.begin(),nums.end());
         for(auto i: num){
             if(num.find(i-1)==num.end()) {
                 c=1;
