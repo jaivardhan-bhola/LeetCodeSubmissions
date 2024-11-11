@@ -10,9 +10,10 @@ public:
         string s2;
         for (auto i : s)
             s2 += (char)tolower(i);
-        for(int i=0;i<s2.length()/2;i++) {
-         if (s2[i]!=s2[s2.length()-1-i]) return false;
-        }
-        return true;
+        string s3 = s2;
+        reverse(s2.begin(),s2.end());
+        if (s2!=s3) return false;
+    return true;
     }
+
 };
