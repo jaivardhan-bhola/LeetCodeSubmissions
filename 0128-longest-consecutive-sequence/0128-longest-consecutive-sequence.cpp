@@ -1,6 +1,8 @@
 class Solution {
 public:
     int longestConsecutive(vector<int>& nums) {
+        ios::sync_with_stdio(false);
+        cin.tie(nullptr);
         if (nums.size()==0) return 0;
         int ans=1, c=1;
         sort(nums.begin(),nums.end());
