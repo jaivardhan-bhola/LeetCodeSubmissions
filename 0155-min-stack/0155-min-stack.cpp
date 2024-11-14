@@ -4,7 +4,8 @@ private:
 
 public:
     MinStack() {
-        
+        ios::sync_with_stdio(false);
+        cin.tie(nullptr);
     }
     
     void push(int val) {
