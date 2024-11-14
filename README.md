@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0242-valid-anagram) |
@@ -105,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
