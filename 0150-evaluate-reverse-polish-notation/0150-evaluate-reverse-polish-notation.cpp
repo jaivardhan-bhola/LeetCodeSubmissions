@@ -1,6 +1,8 @@
 class Solution {
 public:
     int evalRPN(vector<string>& tokens) {
+        ios::sync_with_stdio(false);
+        cin.tie(nullptr);
         stack<string> st;
         int a, ans;
         for (auto i : tokens) {
