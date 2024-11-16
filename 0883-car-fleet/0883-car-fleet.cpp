@@ -3,6 +3,7 @@ public:
     int carFleet(int target, vector<int>& pos, vector<int>& speed) {
         ios::sync_with_stdio(false);
         cin.tie(nullptr);
+        
         vector<pair<int, double>> cars(pos.size());
         for (int i = 0; i < pos.size(); i++) {
             cars[i] = {pos[i], (double)(target - pos[i]) / speed[i]};
