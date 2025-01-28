@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0347-top-k-frequent-elements) |
+| [0416-partition-equal-subset-sum](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0416-partition-equal-subset-sum) |
 | [0739-daily-temperatures](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0883-car-fleet) |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0042-trapping-rain-water](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0416-partition-equal-subset-sum](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0416-partition-equal-subset-sum) |
 ## Stack
 |  |
 | ------- |
