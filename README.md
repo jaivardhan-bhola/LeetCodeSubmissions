@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0567-permutation-in-string) |
+| [1894-merge-strings-alternately](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/1894-merge-strings-alternately) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -105,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0143-reorder-list](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0567-permutation-in-string](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0567-permutation-in-string) |
+| [1894-merge-strings-alternately](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
 |  |
 | ------- |
