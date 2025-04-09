@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0567-permutation-in-string) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/1894-merge-strings-alternately) |
 ## Divide and Conquer
 |  |
@@ -155,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Linked List
 |  |
 | ------- |
