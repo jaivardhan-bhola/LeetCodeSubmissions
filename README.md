@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0792-binary-search](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0907-koko-eating-bananas) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Hash Table
 |  |
