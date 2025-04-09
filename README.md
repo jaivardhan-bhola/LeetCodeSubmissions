@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0416-partition-equal-subset-sum) |
+| [0605-can-place-flowers](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0605-can-place-flowers) |
 | [0739-daily-temperatures](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0883-car-fleet) |
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0011-container-with-most-water) |
+| [0605-can-place-flowers](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0605-can-place-flowers) |
 ## Dynamic Programming
 |  |
 | ------- |
