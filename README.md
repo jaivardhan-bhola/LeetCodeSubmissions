@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0567-permutation-in-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/1894-merge-strings-alternately) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -129,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0416-partition-equal-subset-sum](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0416-partition-equal-subset-sum) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Stack
 |  |
 | ------- |
@@ -160,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/1146-greatest-common-divisor-of-strings) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Linked List
 |  |
 | ------- |
