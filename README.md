@@ -162,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/1146-greatest-common-divisor-of-strings) |
+| [2998-count-symmetric-integers](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/2998-count-symmetric-integers) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Linked List
 |  |
@@ -177,4 +178,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0021-merge-two-sorted-lists](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0206-reverse-linked-list) |
+## Enumeration
+|  |
+| ------- |
+| [2998-count-symmetric-integers](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
