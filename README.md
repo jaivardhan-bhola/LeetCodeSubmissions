@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0347-top-k-frequent-elements) |
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0189-rotate-array) |
 | [0567-permutation-in-string](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0567-permutation-in-string) |
 | [1894-merge-strings-alternately](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
@@ -163,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0189-rotate-array) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2998-count-symmetric-integers](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/2998-count-symmetric-integers) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/3243-count-the-number-of-powerful-integers) |
