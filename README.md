@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0416-partition-equal-subset-sum) |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0567-permutation-in-string) |
@@ -54,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0347-top-k-frequent-elements) |
 | [0883-car-fleet](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0883-car-fleet) |
 ## String
@@ -123,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0907-koko-eating-bananas) |
 ## Greedy
@@ -168,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0268-missing-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2998-count-symmetric-integers](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/2998-count-symmetric-integers) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -189,4 +194,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2998-count-symmetric-integers](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/2998-count-symmetric-integers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
