@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0416-partition-equal-subset-sum) |
+| [0485-max-consecutive-ones](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0605-can-place-flowers) |
 | [0739-daily-temperatures](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0792-binary-search) |
