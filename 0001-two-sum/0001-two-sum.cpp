@@ -1,9 +1,6 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        ios::sync_with_stdio(0);
-        cin.tie(0);
-        cout.tie(0);
         vector<int> n(nums);
         sort(nums.begin(),nums.end());
         int a=0, b=nums.size()-1, sum=nums[a]+nums[b];
