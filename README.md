@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0136-single-number) |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0268-missing-number) |
@@ -114,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0019-remove-nth-node-from-end-of-list](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0143-reorder-list) |
