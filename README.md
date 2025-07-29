@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0128-longest-consecutive-sequence) |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
@@ -148,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0416-partition-equal-subset-sum](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/0416-partition-equal-subset-sum) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/jaivardhan-bhola/LeetCodeSubmissions/tree/master/3243-count-the-number-of-powerful-integers) |
