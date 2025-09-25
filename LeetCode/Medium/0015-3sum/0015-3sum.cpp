@@ -1,8 +1,6 @@
 class Solution {
 public:
     vector<vector<int>> threeSum(vector<int>& nums) {
-        ios::sync_with_stdio(false);
-        cin.tie(nullptr);
         int a, b, sum;
         vector<vector<int>> ans;
         sort(nums.begin(), nums.end());
