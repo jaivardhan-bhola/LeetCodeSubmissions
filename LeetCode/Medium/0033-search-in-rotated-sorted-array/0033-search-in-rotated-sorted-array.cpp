@@ -1,29 +1,34 @@
-#include <vector>
-using namespace std;
 class Solution {
 public:
-    int search(vector<int>& nums, int target) {
-        ios::sync_with_stdio(false);
-        cin.tie(nullptr);
-        int l = 0, r = nums.size() - 1;
-        while (l <= r) {
-            int mid = l + (r - l) / 2;
-            if (nums[mid] == target)
-                return mid;
-            if (nums[l] <= nums[mid]) {
-                if (nums[l] <= target && target < nums[mid]) {
-                    r = mid - 1;
-                } else {
-                    l = mid + 1;
-                }
-            } else {
-                if (nums[mid] < target && target <= nums[r]) {
-                    l = mid + 1;
-                } else {
-                    r = mid - 1;
-                }
-            }
+    int binarySearch(vector<int>& nums, int l, int h, int target) {
+        while (l <= h) {
+            int mid = l + (h - l) / 2;
+            if (nums[mid] == target) return mid;
+            else if (nums[mid] < target) l = mid + 1;
+            else h = mid - 1;
         }
         return -1;
+    }
+
+    int search(vector<int>& nums, int target) {
+        int n = nums.size();
+        int l = 0, h = n - 1;
+        while (l < h) {
+            int mid = l + (h - l) / 2;
+            if (nums[mid] > nums[h]) {
+                l = mid + 1;
+            } else {
+                h = mid;
+            }
+        }
+
+        int pivot = l;
+        l = 0, h = n - 1;
+
+        if (target >= nums[pivot] && target <= nums[h]) {
+            return binarySearch(nums, pivot, h, target);
+        } else {
+            return binarySearch(nums, l, pivot - 1, target);
+        }
     }
 };
