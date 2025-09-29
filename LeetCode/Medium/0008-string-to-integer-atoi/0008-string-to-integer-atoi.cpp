@@ -1,44 +1,33 @@
 class Solution {
 public:
     int myAtoi(string s) {
-        if (s.empty()) {
-            return 0;
-        }
-        
-        int i = 0;
-        int n = s.length();
-        
-        while (i < n && s[i] == ' ') {
-            i++;
-        }
-        
-        if (i == n) {
-            return 0;
-        }
-        
+        int i = 0, n = s.size();
+        while (i < n && s[i] == ' ') i++;
+        if (i == n) return 0;
         int sign = 1;
-        if (s[i] == '+') {
-            i++;
-        } else if (s[i] == '-') {
-            sign = -1;
+        if (s[i] == '+' || s[i] == '-') {
+            sign = (s[i] == '-') ? -1 : 1;
             i++;
         }
-        
-        long long res = 0;
-        while (i < n && isdigit(s[i])) {
-            int digit = s[i] - '0';
-            res = res * 10 + digit;
-            
-            if (sign * res <= INT_MIN) {
-                return INT_MIN;
-            }
-            if (sign * res >= INT_MAX) {
-                return INT_MAX;
-            }
-            
-            i++;
+        return static_cast<int>(parseDigits(s, i, sign, 0));
+    }
+
+private:
+    long long parseDigits(const string &s, int i, int sign, long long res) {
+        int n = s.size();
+
+        if (i == n || !isdigit(s[i])) {
+            return sign * res;
         }
-        
-        return static_cast<int>(res * sign);     
+
+        int digit = s[i] - '0';
+        if (sign == 1) {
+            if (res > (INT_MAX - digit) / 10) return INT_MAX;
+        } else {
+            if (-res < (INT_MIN + digit) / 10) return INT_MIN;
+        }
+
+        res = res * 10 + digit;
+        return parseDigits(s, i + 1, sign, res);
     }
 };
