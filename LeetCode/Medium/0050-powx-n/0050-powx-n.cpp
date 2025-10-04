@@ -1,17 +1,20 @@
 class Solution {
 private:
     double pow(double x, long long n){
-        if (n == 0) return 1.0;
-        if (n == 1) return x;
+        double ans = 1;
 
-        double half = pow(x, n / 2);
+    while (n > 0) {
 
-        if (n % 2 == 0) {
-            return half * half;
-        } else {
-            return half * half * x;
-        }
+        int last_bit = (n & 1);
+        if (last_bit) 
+            ans = ans * x;
+
+        x = x * x;
+        n = n >> 1;
     }
+    return ans;
+    };
+
 public:
     double myPow(double x, int n) {
         long long N=n;
