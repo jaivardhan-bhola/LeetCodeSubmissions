@@ -1,19 +1,15 @@
 class Solution {
 public:
     bool isValid(string s) {
-        stack<char> st;
-        for (char c : s) {
-            if (c == '(' || c == '{' || c == '[') {
-                st.push(c);
-            } else {
-                if (st.empty() || (c == ')' && st.top() != '(') ||
-                    (c == '}' && st.top() != '{') ||
-                    (c == ']' && st.top() != '[')) {
-                    return false;
-                }
-                st.pop();
-            }
+        stack<char> a;
+        for(char c:s){
+            if (a.size()==0) a.push(c);
+            else if (c==')' && a.top()=='(') a.pop(); 
+            else if (c=='}' && a.top()=='{') a.pop(); 
+            else if (c==']' && a.top()=='[') a.pop(); 
+            else a.push(c);
         }
-        return st.empty();
+        if(a.size()==0) return true;
+        return false;
     }
 };
