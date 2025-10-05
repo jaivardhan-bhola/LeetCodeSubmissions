@@ -1,30 +1,34 @@
 class MinStack {
-private:
-    vector<vector<int>> st;
-
 public:
-    MinStack() {
-        ios::sync_with_stdio(false);
-        cin.tie(nullptr);
-    }
-    
+    stack<long long> s;
+    long long mina=LLONG_MAX, temp;
+
+    MinStack() {}    
     void push(int val) {
-        int min_val = getMin();
-        if (st.empty() || min_val > val) {
-            min_val = val;
-        }
-        st.push_back({val, min_val});        
+       if (s.empty()) { s.push(val); mina = val; }
+        else if (val < mina) { s.push(2LL*val - mina); mina = val; }
+        else s.push(val);
     }
     
     void pop() {
-        st.pop_back();
+        temp = s.top(); s.pop();
+        if (temp < mina) mina = 2*mina - temp;
     }
     
     int top() {
-        return st.empty() ? -1 : st.back()[0];
+        return s.top() < mina ? (int)mina : (int)s.top();
     }
     
     int getMin() {
-        return st.empty() ? -1 : st.back()[1]; 
+        return int(mina);
     }
 };
+
+/**
+ * Your MinStack object will be instantiated and called as such:
+ * MinStack* obj = new MinStack();
+ * obj->push(val);
+ * obj->pop();
+ * int param_3 = obj->top();
+ * int param_4 = obj->getMin();
+ */
