@@ -12,7 +12,7 @@ public:
             }
             down=1;
             while(i<ratings.size() && ratings[i]<ratings[i-1]){
-                down++; ans+=down;i++;
+                ans+=down;i++; down++;
             }
             if (down>peak){
                 ans+=down-peak;
